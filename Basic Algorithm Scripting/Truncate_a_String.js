@@ -6,4 +6,4 @@ function truncateString(str, num) {
     }
 }
 
-console.log(truncateString('Hello my world', 5));
+truncateString();
